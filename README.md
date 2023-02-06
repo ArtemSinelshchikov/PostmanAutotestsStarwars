@@ -1,2 +1,2 @@
 # PostmanAutotestsStarwars
-Автотесты в Postman для коллекции запросов Starwars
+Автотесты в Postman для коллекции запросов "Starwars"
